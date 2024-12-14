@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\My project (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0F9203-7327-1616-B5CE-CB9276DE8CD8}|Assembly-CSharp-firstpass.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\my project (2)\\assets\\standard assets\\cameras\\cameraguidelines.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA0F9203-7327-1616-B5CE-CB9276DE8CD8}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\cameras\\cameraguidelines.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraGuidelines.txt",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\My project (2)\\Assets\\Standard Assets\\Cameras\\CameraGuidelines.txt",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Cameras\\CameraGuidelines.txt",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\My project (2)\\Assets\\Standard Assets\\Cameras\\CameraGuidelines.txt",
+              "RelativeToolTip": "Assets\\Standard Assets\\Cameras\\CameraGuidelines.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-13T07:09:39.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
