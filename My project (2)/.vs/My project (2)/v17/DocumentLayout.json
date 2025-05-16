@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA0F9203-7327-1616-B5CE-CB9276DE8CD8}|Assembly-CSharp-firstpass.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\documents\\github\\military-notes-unfinished-business\\my project (2)\\assets\\standard assets\\cameras\\cameraguidelines.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CA0F9203-7327-1616-B5CE-CB9276DE8CD8}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\cameras\\cameraguidelines.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{CA0F9203-7327-1616-B5CE-CB9276DE8CD8}|Assembly-CSharp-firstpass.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\documents\\github\\military-notes-unfinished-business\\my project (2)\\assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\rigidbodyfirstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0F9203-7327-1616-B5CE-CB9276DE8CD8}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\characters\\firstpersoncharacter\\scripts\\rigidbodyfirstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Library\\PackageCache\\com.unity.ai.navigation@2.0.6\\Runtime\\NavMeshLink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ai.navigation@2.0.6\\Runtime\\NavMeshLink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Assets\\Standard Assets\\NatureStarterKit2\\Editor\\ImageEffects\\ColorCorrectionLookupEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Standard Assets\\NatureStarterKit2\\Editor\\ImageEffects\\ColorCorrectionLookupEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\assets\\music\\randommusic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\music\\randommusic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +31,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CameraGuidelines.txt",
-              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Assets\\Standard Assets\\Cameras\\CameraGuidelines.txt",
-              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Cameras\\CameraGuidelines.txt",
-              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Assets\\Standard Assets\\Cameras\\CameraGuidelines.txt",
-              "RelativeToolTip": "Assets\\Standard Assets\\Cameras\\CameraGuidelines.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-30T11:13:28.374Z",
+              "Title": "RigidbodyFirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\RigidbodyFirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\RigidbodyFirstPersonController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\RigidbodyFirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Characters\\FirstPersonCharacter\\Scripts\\RigidbodyFirstPersonController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwF4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:03:18.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NavMeshLink.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Library\\PackageCache\\com.unity.ai.navigation@2.0.6\\Runtime\\NavMeshLink.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ai.navigation@2.0.6\\Runtime\\NavMeshLink.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Library\\PackageCache\\com.unity.ai.navigation@2.0.6\\Runtime\\NavMeshLink.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ai.navigation@2.0.6\\Runtime\\NavMeshLink.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:29:28.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ColorCorrectionLookupEditor.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Assets\\Standard Assets\\NatureStarterKit2\\Editor\\ImageEffects\\ColorCorrectionLookupEditor.cs",
               "RelativeDocumentMoniker": "Assets\\Standard Assets\\NatureStarterKit2\\Editor\\ImageEffects\\ColorCorrectionLookupEditor.cs",
@@ -51,18 +62,6 @@
               "RelativeToolTip": "Assets\\Standard Assets\\NatureStarterKit2\\Editor\\ImageEffects\\ColorCorrectionLookupEditor.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T03:57:25.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RandomMusic1.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Assets\\Music\\RandomMusic1.cs",
-              "RelativeDocumentMoniker": "Assets\\Music\\RandomMusic1.cs",
-              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\Documents\\GitHub\\Military-notes-unfinished-business\\My project (2)\\Assets\\Music\\RandomMusic1.cs",
-              "RelativeToolTip": "Assets\\Music\\RandomMusic1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T06:30:22.492Z"
             }
           ]
         }
