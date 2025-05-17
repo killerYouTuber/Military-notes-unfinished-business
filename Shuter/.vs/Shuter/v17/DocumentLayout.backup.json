@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efimy\\Shuter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC8E437-0FC6-14D1-E6A5-D93E545F3B8A}|Assembly-CSharp.csproj|c:\\users\\efimy\\shuter\\assets\\scripts\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC8E437-0FC6-14D1-E6A5-D93E545F3B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC8E437-0FC6-14D1-E6A5-D93E545F3B8A}|Assembly-CSharp.csproj|c:\\users\\efimy\\shuter\\assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC8E437-0FC6-14D1-E6A5-D93E545F3B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC8E437-0FC6-14D1-E6A5-D93E545F3B8A}|Assembly-CSharp.csproj|C:\\Users\\efimy\\Shuter\\assets\\scripts\\weaponparametars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC8E437-0FC6-14D1-E6A5-D93E545F3B8A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponparametars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\efimy\\Shuter\\Assets\\Scripts\\PlayerWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerWeapon.cs",
+              "ToolTip": "C:\\Users\\efimy\\Shuter\\Assets\\Scripts\\PlayerWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerWeapon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:31:59.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponParametars.cs",
+              "DocumentMoniker": "C:\\Users\\efimy\\Shuter\\Assets\\Scripts\\WeaponParametars.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponParametars.cs",
+              "ToolTip": "C:\\Users\\efimy\\Shuter\\Assets\\Scripts\\WeaponParametars.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponParametars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:30:27.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "C:\\Users\\efimy\\Shuter\\Assets\\Scripts\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShooting.cs",
+              "ToolTip": "C:\\Users\\efimy\\Shuter\\Assets\\Scripts\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShooting.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:50:02.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
