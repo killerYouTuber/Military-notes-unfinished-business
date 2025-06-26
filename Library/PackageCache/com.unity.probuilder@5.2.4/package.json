@@ -1,0 +1,81 @@
+{
+  "name": "com.unity.probuilder",
+  "displayName": "ProBuilder",
+  "version": "5.2.4",
+  "unity": "2019.4",
+  "description": "Build, edit, and texture custom geometry in Unity. Use ProBuilder for in-scene level design, prototyping, collision meshes, all with on-the-fly play-testing.\n\nAdvanced features include UV editing, vertex colors, parametric shapes, and texture blending. With ProBuilder's model export feature it's easy to tweak your levels in any external 3D modelling suite.\n\nIf you are using URP/HDRP, be careful to also import the corresponding sample project in the section below to get the proper materials.",
+  "keywords": [
+    "3d",
+    "model",
+    "mesh",
+    "modeling",
+    "geometry",
+    "shape",
+    "cube",
+    "blender",
+    "max",
+    "maya",
+    "fbx",
+    "obj",
+    "level",
+    "design",
+    "block",
+    "greybox",
+    "graybox",
+    "whitebox",
+    "prototype",
+    "probuilder"
+  ],
+  "samples": [
+    {
+      "displayName": "Universal Render Pipeline Support",
+      "description": "Shaders and materials for the Light Weight Render Pipeline.",
+      "path": "Samples~/UniversalRenderPipeline"
+    },
+    {
+      "displayName": "Universal Render Pipeline Support 2019",
+      "description": "Shaders and materials for the Light Weight Render Pipeline for 2019.X Editors.",
+      "path": "Samples~/UniversalRenderPipeline 2019"
+    },
+    {
+      "displayName": "High Definition Render Pipeline Support",
+      "description": "Shaders and materials for the High Definition Render Pipeline.",
+      "path": "Samples~/HDRP"
+    },
+    {
+      "displayName": "High Definition Render Pipeline Support 2019",
+      "description": "Shaders and materials for the High Definition Render Pipeline for 2019.X Editors.",
+      "path": "Samples~/HDRP 2019"
+    },
+    {
+      "displayName": "Editor Examples",
+      "description": "Scripts demonstrating how to integrate new functionality into the ProBuilder editor window.",
+      "path": "Samples~/Editor"
+    },
+    {
+      "displayName": "Runtime Examples",
+      "description": "Scripts showing how to create and modify meshes at runtime.",
+      "path": "Samples~/Runtime"
+    }
+  ],
+  "dependencies": {
+    "com.unity.settings-manager": "1.0.3",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0"
+  },
+  "relatedPackages": {
+    "com.unity.probuilder.tests": "5.2.4"
+  },
+  "_upm": {
+    "changelog": "### Fixed\n\n- [PBLD-189] Fixed a bug where using the auto-stitch functionality of the UV Editor would not work properly on MacOS, moved it to Control+Command+Shift + Left click (MacOS only).\n- [PBLD-192] Fixed a bug where vertices were not able to snap on other vertices from the same mesh for Unity 2020.3 and later.\n- [PBLD-150] Fixed a bug where the orientation handles would not be useful when manipulating a cube shape.\n- [PBLD-205] Fixed a bug where the `Edit PolyShape` tool would revert previously merged PolyShape objects.\n- [PBLD-199] Fixed a bug where an exception was thrown if you placed two cut tool vertices on the same edge."
+  },
+  "upmCi": {
+    "footprint": "cf805b23b53b54d0a9f9db10c0ca939c1990f031"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.probuilder@5.2/manual/index.html",
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/com.unity.probuilder.git",
+    "type": "git",
+    "revision": "69b6a742acb6d7698c33f4f0a4d55ad39e17f096"
+  }
+}

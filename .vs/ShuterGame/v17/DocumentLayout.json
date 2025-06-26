@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56E3437A-7B29-E441-B9A5-EA9340E8D1B1}|Assembly-CSharp-firstpass.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\shutergame\\assets\\standard assets\\utility\\eventsystemchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E3437A-7B29-E441-B9A5-EA9340E8D1B1}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\eventsystemchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\shutergame\\assets\\scripts\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\assets\\scripts\\missionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\missionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\assets\\scripts\\enemy\\enemyspawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyspawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\assets\\scripts\\weapon\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\assets\\scripts\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC8479D-D4C3-7831-A02A-F81A26EE519D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventSystemChecker.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Standard Assets\\Utility\\EventSystemChecker.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\EventSystemChecker.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Standard Assets\\Utility\\EventSystemChecker.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\EventSystemChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:37:14.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissionManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\MissionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MissionManager.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\MissionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MissionManager.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAArwGIAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:49:48.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAI.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAArwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:13:43.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemySpawnPoint.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\Enemy\\EnemySpawnPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemySpawnPoint.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\Enemy\\EnemySpawnPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemySpawnPoint.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:24:32.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TMPro_UGUI_Private.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.textmeshpro@3.0.7\\Scripts\\Runtime\\TMPro_UGUI_Private.cs",
+              "ViewState": "AgIAAOYEAAAAAAAAAAArwPkEAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:52:29.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsManager.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\SettingsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingsManager.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAArwNAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:31:51.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAArwEsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:22:18.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:19:44.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\Weapon\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\PlayerShooting.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\Weapon\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\PlayerShooting.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAAArwK4BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:57:30.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\ShuterGame\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAkwBsBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:52:38.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
